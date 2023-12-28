@@ -1,4 +1,7 @@
 # LAB_BASISDATA
+Link penjelasan CRUD : https://youtu.be/qDmZL5IIzJE
+
+
 Dalam proyek UAS Lab Basis Data (BD6), kami mengembangkan sebuah antarmuka web yang bersifat interaktif dan membutuhkan pengguna untuk melakukan proses login sebelum dapat mengakses kontennya. Setelah berhasil login dengan menggunakan kombinasi username dan password yang telah ditentukan, pengguna akan diarahkan ke tampilan utama web. Pada tampilan utama ini, terdapat beberapa fitur utama yang dapat diakses, yaitu Create, Read, Update, dan Delete, yang umumnya dikenal dengan operasi CRUD.
 
 Setiap fitur ini memiliki fungsionalitasnya sendiri. Fitur Create memungkinkan pengguna untuk menambahkan data baru, Read memungkinkan pengambilan informasi dari basis data, Update memungkinkan pembaruan data yang sudah ada, dan Delete digunakan untuk menghapus data yang tidak diperlukan. Dengan adanya keempat operasi dasar ini, pengguna dapat secara efektif mengelola dan memanipulasi data dalam sistem basis data atau aplikasi.
